@@ -1,5 +1,5 @@
 # Programming-Questions
-List of some basic programming questions that I solve for fun.
+List of some basic programming questions.
 
 - [WAP to add all the numbers in a strings?](addOnlyNumbersFromString.java)
 - [WAP to check whether two strings are Anagram of each other?](anagrams.java)
